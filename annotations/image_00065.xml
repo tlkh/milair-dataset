@@ -1,0 +1,23 @@
+<annotation>
+    <folder>images</folder>
+    <filename>image_00065.jpeg</filename>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>seahawk</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>354</xmin>
+            <ymin>25</ymin>
+            <xmax>886</xmax>
+            <ymax>294</ymax>
+        </bndbox>
+    </object>
+</annotation>

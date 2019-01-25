@@ -1,0 +1,23 @@
+<annotation>
+    <folder>images</folder>
+    <filename>image_00075.jpeg</filename>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>ah64</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>561</xmin>
+            <ymin>285</ymin>
+            <xmax>916</xmax>
+            <ymax>405</ymax>
+        </bndbox>
+    </object>
+</annotation>
