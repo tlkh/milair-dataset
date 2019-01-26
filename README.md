@@ -8,6 +8,8 @@ Photos of military aircraft with labelled bounding boxes. The annotations are pr
 Labels: ['ah64', 'chinook', 'cougar', 'f15', 'f16', 'seahawk']
 ```
 
+Each image is full colour and `1280 * 720` pixels in size.
+
 **Breakdown**
 
 * f16: 120
