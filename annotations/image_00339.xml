@@ -1,0 +1,23 @@
+<annotation>
+    <folder>images</folder>
+    <filename>image_00339.jpeg</filename>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>f15</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>804</xmin>
+            <ymin>121</ymin>
+            <xmax>1093</xmax>
+            <ymax>336</ymax>
+        </bndbox>
+    </object>
+</annotation>
