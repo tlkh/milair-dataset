@@ -1,5 +1,7 @@
 # Military Aircraft Dataset
 
+![](https://img.shields.io/github/repo-size/tlkh/milair-dataset.svg) ![](https://img.shields.io/github/license/tlkh/milair-dataset.svg)
+
 Photos of military aircraft with labelled bounding boxes. The annotations are provided in the Pascal-VOC format.
 
 ```
