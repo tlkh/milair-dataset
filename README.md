@@ -2,11 +2,15 @@
 
 Photos of military aircraft with labelled bounding boxes
 
-Breakdown:
+```
+Labels: ['ah64', 'chinook', 'cougar', 'f15', 'f16', 'seahawk']
+```
 
-* f16: 85
-* f15: 94
-* seahawk: 24
-* ah64: 54
-* cougar: 50
-* chinook: 29
+**Breakdown**
+
+* f16: 120
+* f15: 112
+* seahawk: 30
+* ah64: 77
+* cougar: 64
+* chinook: 57
