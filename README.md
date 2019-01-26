@@ -14,12 +14,12 @@ Labels: ["ah64", "chinook", "cougar", "f15", "f16", "seahawk"]
 
 | Aircraft | Count |
 | -------- | ----- |
-| ah64     | 147   |
-| chinook  | 74    |
-| seahawk  | 48    |
-| cougar   | 64    |
-| f15      | 134   |
-| f16      | 120   |
+| ah64     | 167   |
+| chinook  | 83    |
+| seahawk  | 55    |
+| cougar   | 89    |
+| f15      | 145   |
+| f16      | 121   |
 
 # Contributing
 
