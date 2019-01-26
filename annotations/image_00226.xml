@@ -1,0 +1,23 @@
+<annotation>
+    <folder>images</folder>
+    <filename>image_00226.jpeg</filename>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>chinook</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>408</xmin>
+            <ymin>66</ymin>
+            <xmax>1068</xmax>
+            <ymax>335</ymax>
+        </bndbox>
+    </object>
+</annotation>
