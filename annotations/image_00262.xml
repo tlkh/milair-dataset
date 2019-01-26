@@ -14,10 +14,10 @@
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>590</xmin>
-            <ymin>314</ymin>
-            <xmax>725</xmax>
-            <ymax>394</ymax>
+            <xmin>600</xmin>
+            <ymin>325</ymin>
+            <xmax>715</xmax>
+            <ymax>387</ymax>
         </bndbox>
     </object>
     <object>
@@ -27,10 +27,10 @@
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>600</xmin>
-            <ymin>438</ymin>
+            <xmin>604</xmin>
+            <ymin>443</ymin>
             <xmax>680</xmax>
-            <ymax>494</ymax>
+            <ymax>488</ymax>
         </bndbox>
     </object>
     <object>
@@ -40,36 +40,23 @@
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>754</xmin>
-            <ymin>382</ymin>
-            <xmax>847</xmax>
-            <ymax>451</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>ah64</name>
-        <pose>Unspecified</pose>
-        <truncated>0</truncated>
-        <occluded>0</occluded>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>458</xmin>
-            <ymin>385</ymin>
-            <xmax>552</xmax>
+            <xmin>760</xmin>
+            <ymin>391</ymin>
+            <xmax>843</xmax>
             <ymax>445</ymax>
         </bndbox>
     </object>
     <object>
-        <name>cougar</name>
+        <name>ah64</name>
         <pose>Unspecified</pose>
         <truncated>0</truncated>
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>858</xmin>
-            <ymin>417</ymin>
-            <xmax>955</xmax>
-            <ymax>475</ymax>
+            <xmin>467</xmin>
+            <ymin>394</ymin>
+            <xmax>547</xmax>
+            <ymax>441</ymax>
         </bndbox>
     </object>
     <object>
@@ -79,10 +66,23 @@
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>360</xmin>
-            <ymin>428</ymin>
-            <xmax>445</xmax>
-            <ymax>482</ymax>
+            <xmin>863</xmin>
+            <ymin>423</ymin>
+            <xmax>948</xmax>
+            <ymax>471</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>cougar</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>365</xmin>
+            <ymin>434</ymin>
+            <xmax>440</xmax>
+            <ymax>476</ymax>
         </bndbox>
     </object>
 </annotation>
