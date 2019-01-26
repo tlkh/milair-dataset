@@ -1,6 +1,6 @@
 # Military Aircraft Dataset
 
-Photos of military aircraft with labelled bounding boxes
+Photos of military aircraft with labelled bounding boxes. The annotations are provided in the Pascal-VOC format.
 
 ```
 Labels: ['ah64', 'chinook', 'cougar', 'f15', 'f16', 'seahawk']
