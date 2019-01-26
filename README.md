@@ -16,3 +16,7 @@ Labels: ['ah64', 'chinook', 'cougar', 'f15', 'f16', 'seahawk']
 * ah64: 77
 * cougar: 64
 * chinook: 57
+
+# Contributing
+
+We welcome new additions to the dataset, either images or images+annotations. Please continue to adhere to the naming scheme.
