@@ -2,22 +2,24 @@
 
 ![](https://img.shields.io/github/repo-size/tlkh/milair-dataset.svg) ![](https://img.shields.io/github/license/tlkh/milair-dataset.svg)
 
-Photos of military aircraft with labelled bounding boxes. The annotations are provided in the Pascal-VOC format.
+Photos of military aircraft with labelled bounding boxes. The images are all still frames captured from a wide variety of YouTube videos. Each image is full colour and `1280 * 720` pixels in size.
+
+The annotations are provided in the Pascal-VOC format.
 
 ```
-Labels: ['ah64', 'chinook', 'cougar', 'f15', 'f16', 'seahawk']
+Labels: ["ah64", "chinook", "cougar", "f15", "f16", "seahawk"]
 ```
 
-Each image is full colour and `1280 * 720` pixels in size.
+**Class Occurrences**
 
-**Breakdown**
-
-* f16: 120
-* f15: 112
-* seahawk: 30
-* ah64: 77
-* cougar: 64
-* chinook: 57
+| Aircraft | Count |
+| -------- | ----- |
+| ah64     | 147   |
+| chinook  | 74    |
+| seahawk  | 48    |
+| cougar   | 64    |
+| f15      | 134   |
+| f16      | 120   |
 
 # Contributing
 
