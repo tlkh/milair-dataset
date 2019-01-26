@@ -4,6 +4,8 @@
 
 Photos of military aircraft with labelled bounding boxes. The annotations are provided in the Pascal-VOC format.
 
+The images are all still frames captured from a wide variety of YouTube videos.
+
 ```
 Labels: ['ah64', 'chinook', 'cougar', 'f15', 'f16', 'seahawk']
 ```
